@@ -1,0 +1,21 @@
+decorator==5.2.1
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
+gitdb==4.0.12
+GitPython==3.1.45
+ipykernel==7.1.0
+ipython==9.7.0
+ipython_pygments_lexers==1.1.1
+matplotlib==3.10.7
+matplotlib-inline==0.2.1
+nltk==3.9.2
+numpy==2.3.3
+packaging==25.0
+pandas==2.3.3
+scikit-learn==1.8.0
+scipy==1.16.3
+spacy==3.8.11
+streamlit==1.51.0
+watchdog==6.0.0
+wcwidth==0.2.14
+weasel==0.4.3
+wrapt==2.0.1
